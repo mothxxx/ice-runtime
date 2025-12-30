@@ -1,0 +1,10 @@
+[project]
+name = "ice-core"
+version = "0.1.0"
+description = "ICE Studio core runtime primitives (logging, ids, time, typing)"
+requires-python = ">=3.10"
+
+dependencies = [
+  "orjson>=3.9.0",
+  "typing-extensions>=4.8.0"
+]
