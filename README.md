@@ -113,4 +113,33 @@ and are non-bypassable.
 
 ## Usage Model
 
-ICE Runtime is not typica
+ICE Runtime is not typically consumed directly by end users.
+
+It is embedded by:
+
+- ICE Engine
+- Agent systems
+- Automation layers
+- Development tools (e.g. ICE Studio)
+
+ICE Runtime acts as the **execution ground truth**
+for all ICE-based systems.
+
+---
+
+## Canonical Status
+
+ICE Runtime is a **constrained executor**, not an authority.
+
+If Runtime behavior contradicts ICE Foundation,
+the Runtime is wrong by definition.
+
+---
+
+## Notes
+
+ICE Runtime evolves carefully.
+
+Execution systems accumulate risk quickly.
+Stability, inspectability, and governance
+take precedence over feature velocity.
