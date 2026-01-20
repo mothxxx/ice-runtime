@@ -8,13 +8,13 @@
 
 
 <p align="center">
-  <img src="docs/assets/ice-runtime-hero.png" alt="ICE Runtime execution architecture" width="85%">
+  <img src="docs/assets/logo-runtime.svg" alt="ICE Runtime execution architecture" width="85%">
 </p>
 
 
 > **The execution core of the ICE environment**  
 > Orchestrating agents, workflows, and system state with explicit authority.
-
+ma che 
 ---
 
 ## What is ICE Runtime
