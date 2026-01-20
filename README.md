@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="docs/assets/logo-runtime.svg" alt="ICE Runtime execution architecture" width="85%">
+  <img src="assets/logo-runtime.svg" width="420" alt="ICE Runtime">
 </p>
 
 
